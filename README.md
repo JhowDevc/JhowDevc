@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/138172090?s=400&u=4d22175e97b27f61e761ac1ea6ee3f887efae519&v=4" alt="Foto de perfil" width="120" style="border-radius:50%;" />
-</p>
 
 <p align="center">
   <h1>Olá, eu sou <strong>Jonathan Carvalheiro</strong> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
@@ -16,9 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/jhowdevc/github-readme-stats">
-    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhowdevc&layout=compact" />
-  </a>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhowdevc)](https://github.com/jhowdevc/github-readme-stats)
 </p>
 
 ---
