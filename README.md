@@ -14,8 +14,11 @@
 
 
 <div align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhowdevc)](https://github.com/jhowdevc/github-readme-stats)
+  <a href="https://github.com/jhowdevc/github-readme-stats" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhowdevc&layout=compact" alt="Top Langs" />
+  </a>
 </div>
+
 
 
 ---
