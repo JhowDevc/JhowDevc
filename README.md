@@ -1,7 +1,7 @@
 # Olá, eu sou **Jonathan Carvalheiro**! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-carvalheiro/){:target="_blank"} 
-[![Certificados](https://img.shields.io/badge/Certificados-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://drive.google.com/drive/u/1/folders/1CJRYtPi6wm8jBVTu6-qs9NJvZV6F_M6V/){:target="_blank"}
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-carvalheiro/)
+[![Certificados](https://img.shields.io/badge/Certificados-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://drive.google.com/drive/u/1/folders/1CJRYtPi6wm8jBVTu6-qs9NJvZV6F_M6V/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhowdevc)](https://github.com/jhowdevc/github-readme-stats)
 
