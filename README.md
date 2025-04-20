@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="PROFILE_IMAGE_URL" alt="Foto de perfil" width="120" style="border-radius:50%;" />
+  <img src="[PROFILE_IMAGE_URL](https://github.com/account)" alt="Foto de perfil" width="120" style="border-radius:50%;" />
 </p>
 
 <p align="center">
