@@ -13,9 +13,9 @@
 </p>
 
 
-<p align="center">
+<div align="center">
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhowdevc)](https://github.com/jhowdevc/github-readme-stats)
-</p>
+</div>
 
 
 ---
