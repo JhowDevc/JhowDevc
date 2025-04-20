@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/account" alt="Foto de perfil" width="120" style="border-radius:50%;" />
+  <img src="https://avatars.githubusercontent.com/u/138172090?s=400&u=4d22175e97b27f61e761ac1ea6ee3f887efae519&v=4" alt="Foto de perfil" width="120" style="border-radius:50%;" />
 </p>
 
 <p align="center">
