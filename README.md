@@ -12,9 +12,8 @@
   </a>
 </p>
 
-<p align="center">
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhowdevc)](https://github.com/jhowdevc/github-readme-stats)
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhowdevc)](https://github.com/jhowdevc/github-readme-stats)
+
 
 ---
 
